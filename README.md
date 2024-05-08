@@ -4,4 +4,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eleiend quam, 
 
 - bullet 1
 - bullet 2
-- bullet 3 
+- bullet 3
+
+## Another example header 
